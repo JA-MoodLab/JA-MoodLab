@@ -1,5 +1,7 @@
 # MoodLab 🧪
 
+> MoodLab is a JA Company by the students of CASCCMC.
+
 專屬香港家庭的情緒放鬆共享空間
 
 A specialized relaxation space for Hong Kong families. 
