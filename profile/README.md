@@ -106,15 +106,15 @@ MoodLab 的數碼世界由 **7 個系統**組成，由同一核心工程一手�
 
 | 系統                  | 用途                             | 技術                                        | 主要語言          | 行數  |
 | --------------------- | -------------------------------- | ------------------------------------------- | ----------------- | ----- |
-| **moodlab**           | 官方網站（產品、訂單、AI、手冊） | Next.js 15 · React · Three.js · web-haptics | TypeScript        | 9,612 |
-| **customer-services** | 客戶服務：臨時代碼 + 訂單追蹤    | Firebase · HTML/JS                          | HTML · JavaScript | 3,466 |
-| **moodlab-sales**     | 銷售管理：記錄、查閱、認證       | Firebase Auth · Firestore                   | HTML · JavaScript | 3,362 |
-| **cert-mailer**       | 證書電郵：生成 PDF 並寄出        | Firebase Admin · nodemailer · jsPDF         | JavaScript        | 474   |
-| **moodlab-ai**        | AI 對話後端                      | Express · OpenAI / NIM API                  | JavaScript        | 212   |
-| **router**            | Firebase 路由轉發                | Firebase Hosting                            | HTML              | 6     |
-| **giant-keycap**      | BlaBla Keycap 電路模擬器         | HTML Canvas                                 | HTML              | 376   |
+| **Official Website**           | 官方網站（產品、訂單、AI、手冊） | Next.js 15 · React · Three.js · web-haptics | TypeScript        | 9,612 |
+| **Customer Services** | 客戶服務：臨時代碼 + 訂單追蹤    | Firebase · HTML/JS                          | HTML · JavaScript | 3,466 |
+| **MoodLab Sales**     | 銷售管理：記錄、查閱、認證       | Firebase Auth · Firestore                   | HTML · JavaScript | 3,362 |
+| **Email API**         | 寄出 Email        | Firebase Admin · nodemailer · jsPDF         | JavaScript        | 474   |
+| **MoodLab AI**        | AI 對話後端                      | Express · OpenAI / NIM API                  | JavaScript        | 212   |
+| **Static Router**            | Firebase 路由轉發                | Firebase Hosting                            | HTML              | 6     |
+| **Giant Keycap**      | BlaBla Keycap 電路         | HTML Canvas                                 | HTML              | 376   |
 
-所有程式碼均由團隊**親手撰寫**——我們拒絕 vibe-coding，追求安全、一致與完美。共計 **17,508 行**手寫應用程式碼：
+所有程式碼均由團隊**親手撰寫**——我們拒絕一味地、不經審核的 vibe-coding，追求安全、一致與完美。共計 **17,508 行**手寫應用程式碼：
 
 <p align="center">
   <img src="assets/images/code-stats.png" alt="Code Statistics" width="90%"/>
@@ -147,7 +147,7 @@ MoodLab 的數碼世界由 **7 個系統**組成，由同一核心工程一手�
 - **Backend** — Google Firebase · NIM API（MoodLab AI）
 - **Design / 3D** — Figma · Blender · Bambu Studio · PLA 3D printing
 - **Internal systems** — Secure Terminal · Order Tracking · Express Checkout
-- **AI policy** — 見 [`AI.md`](software-technology/ai.md)
+- **AI policy** — 見 [`AI.md`](https://moodlab.vercel.app/software-technology/ai.md)
 
 ---
 
